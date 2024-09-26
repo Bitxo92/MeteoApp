@@ -1,0 +1,86 @@
+# Eclipse specific files
+
+/.classpath
+
+/.project
+
+/.settings/
+
+
+# Ignore build directories
+
+/bin/
+
+/build/
+
+
+# Maven target directory
+
+/target/
+
+
+# Gradle build directory
+
+/.gradle/
+
+/build/
+
+
+# Ignore compiled Java classes
+
+*.class
+
+
+# Ignore packaged files (e.g., JAR, WAR)
+
+*.jar
+
+*.war
+
+*.ear
+
+
+# Log files
+
+*.log
+
+
+# Temporary files
+
+*.tmp
+
+*.temp
+
+*.swp
+
+
+# OS-specific files
+
+.DS_Store
+
+Thumbs.db
+
+
+# Ignore API keys or configuration files (if any)
+
+config.properties
+
+.env
+
+
+# Ignore libraries in /lib or /libs directory
+
+/lib/
+
+/libs/
+
+
+# Ignore JSON simple library if included in your project manually
+
+json-simple-*.jar
+
+
+# FlatLaf theme files (if generated)
+
+*.flatlaf
+
