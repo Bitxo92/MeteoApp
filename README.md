@@ -24,7 +24,7 @@ MeteoApp is a simple Java-based weather application that retrieves and displays 
 
 ## Requirements
 
-- **Java 22 or higher**
+- **Java 8 or higher**
 - **Maven** or any other build tool (Optional, if you need to manage dependencies)
 - **Internet Connection**: The app retrieves weather data via an API, so an active internet connection is required.
 
@@ -41,7 +41,7 @@ MeteoApp is a simple Java-based weather application that retrieves and displays 
 
    - If using Git:
      ```bash
-     git clone https://github.com/your-repository-url.git
+     git clone https://github.com/Bitxo92/MeteoApp.git
      ```
    - Alternatively, download the ZIP of the project and extract it.
 
